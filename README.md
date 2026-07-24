@@ -2,7 +2,7 @@
 
 > **This README was AI-generated.**
 
-An end-to-end machine learning project following **Chapter 2** of *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* by Aurélien Géron. The goal is to predict **median house values** for California districts using the 1990 Census dataset.
+An end-to-end machine learning project following **Chapter 2** of *Hands-On Machine Learning with Scikit-Learn and PyTorch* by Aurélien Géron. The goal is to predict **median house values** for California districts using the 1990 Census dataset.
 
 ---
 
@@ -91,6 +91,6 @@ The notebook will automatically download the dataset on first run.
 
 ## Reference
 
-- **Book**: *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* (3rd Edition) by Aurélien Géron
+- **Book**: *Hands-On Machine Learning with Scikit-Learn and PyTorch* by Aurélien Géron
 - **Chapter**: 2 — End-to-End Machine Learning Project
 - **Dataset**: California Housing Prices (1990 Census)
